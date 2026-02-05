@@ -50,7 +50,6 @@ The system integrates the following APIs:
 
 ```bash
 git clone <your-repo-url>
-cd trulymadly
 ```
 
 ### 2. Create Virtual Environment
