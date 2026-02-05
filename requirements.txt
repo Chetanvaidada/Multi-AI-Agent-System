@@ -1,0 +1,12 @@
+# Core LLM orchestration
+langchain>=0.1.16
+langchain-google-genai>=1.0.3
+google-generativeai>=0.4.1
+langgraph
+
+# Environment & config
+python-dotenv>=1.0.1
+
+# API calls
+requests>=2.31.0
+wikipedia>=1.4.0
